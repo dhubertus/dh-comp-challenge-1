@@ -1,1 +1,15 @@
-# dh-comp-challenge-1
+## Static Comp Challenge One
+
+### Task
+Provided only a static layout (below), the task was to reproduce a matching comp (below) while not taking any liberties in regaurds to layout. However, I was granted creative license for images, icons, and color pallete.
+
+##### Basic Requirements
+Site must be designed with an index.html and index.css file.
+Site must be responsive.
+
+
+#### Provided Comp
+<img width="902" alt="static comp template" src="https://cloud.githubusercontent.com/assets/25044263/22870391/09291d90-f164-11e6-9108-e033b7898b24.png">
+
+#### Produced Comp
+<img width="1280" alt="produced static comp" src="https://cloud.githubusercontent.com/assets/25044263/22870392/124a4750-f164-11e6-8410-be56c79bea67.png">
