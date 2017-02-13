@@ -143,6 +143,10 @@ img {
     background-image: url("images/ast-mobile-large.jpg")
   }
 
+  .box {
+    height:225px;
+  }
+
 }
 
 @media screen and (min-width: 1025px) {
