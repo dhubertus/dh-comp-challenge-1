@@ -12,4 +12,4 @@ Site must be responsive.
 <img width="902" alt="static comp template" src="https://cloud.githubusercontent.com/assets/25044263/22870391/09291d90-f164-11e6-9108-e033b7898b24.png">
 
 #### Produced Comp
-<img width="1280" alt="produced static comp" src="https://cloud.githubusercontent.com/assets/25044263/22870392/124a4750-f164-11e6-8410-be56c79bea67.png">
+<img width="1064" alt="produced static comp" src="https://cloud.githubusercontent.com/assets/25044263/22870704/f781a014-f166-11e6-8379-f493b12f1f6a.png">
